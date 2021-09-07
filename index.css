@@ -1,13 +1,9 @@
-body {
-  background-color: lightblue;
-}
-
-h1 {
-  color: black;
+H1 {
+  color: #00080;
+  front-size: 200%;
+  front-family: Arial, Verdana, sans-serif;
   text-align: center;
 }
-
-p {
-  font-family: verdana;
-  font-size: 20px;
+P {
+  padding-left: 20px;
 }
